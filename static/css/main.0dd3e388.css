@@ -1,0 +1,32 @@
+body {
+    align-items: center;
+    background: linear-gradient(180deg, #70f, #40f);
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    perspective: 500px;
+    width: 100vw
+}
+
+.container {
+    background: #fff3;
+    border-radius: 30px;
+    display: flex;
+    height: 100vh;
+    overflow: hidden;
+    place-content: center;
+    place-items: center;
+    width: 900px
+}
+
+.item {
+    background: #fff;
+    border-radius: inherit;
+    height: 150px;
+    width: 150px
+}
+
+/*# sourceMappingURL=main.0dd3e388.css.map*/
